@@ -43,4 +43,4 @@ progress_embed = discord.Embed(
 #$ old version was also made by me (github: rubinexe)
 #$ new github: pygod7 
 #$ give credits if you re-distribute! 
-# project-2
+
